@@ -39,18 +39,25 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-`npm init` </br>
-`npm install mysql2` </br>
-`npm install sequelize` </br>
-`npm install express` </br>
-`npm install dotenv` </br>
+`npm init`
+
+`npm install mysql2`
+
+`npm install sequelize`
+
+`npm install express`
+
+`npm install dotenv`
 
 ## Usage
 
-`mysql -u root -p` </br>
-`source db/schema.sql` </br>
-`npm run seed` </br>
-`npm start` </br>
+`mysql -u root -p`
+
+`source db/schema.sql`
+
+`npm run seed`
+
+`npm start`
 
 ## Demonstration
 

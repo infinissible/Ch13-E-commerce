@@ -39,33 +39,37 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
 
-`npm init`
-`npm install mysql2`
-`npm install sequelize`
-`npm install express`
-`npm install dotenv`
+`npm init` </br>
+`npm install mysql2` </br>
+`npm install sequelize` </br>
+`npm install express` </br>
+`npm install dotenv` </br>
 
 ## Usage
 
-`mysql -u root -p`
-`source db/schema.sql`
-`npm run seed`
-`npm start`
+`mysql -u root -p` </br>
+`source db/schema.sql` </br>
+`npm run seed` </br>
+`npm start` </br>
 
 ## Demonstration
 
-- Creating the schema from the MySQL shell, seeding the database from the command line, and starting the server
-  <img src="./Develop/assets/video1.gif" alt="" /></br>
-  Video link: https://drive.google.com/file/d/1KNSdsGaOzPaBuJVvNiP7ZnSe_g9VyWtb/view
+### Creating the schema from the MySQL shell, seeding the database from the command line, and starting the server
 
-- GET routes for all categories, all products, and all tags in Insomnia
-  <img src="./Develop/assets/video2.gif" alt="" /></br>
-  Video link: https://drive.google.com/file/d/1Rh5A6CF6UNMpN3iLTWRdDEwi5bcx-1aG/view
+<img src="./Develop/assets/video1.gif" alt="" /></br>
+Video link: https://drive.google.com/file/d/1KNSdsGaOzPaBuJVvNiP7ZnSe_g9VyWtb/view
 
-- GET routes for a single category, a single product, and a single tag in Insomnia
-  <img src="./Develop/assets/video3.gif" alt="" /></br>
-  Video link: https://drive.google.com/file/d/1mkMriKv-yDRvGMgyu-jSDGxjjU1gq-3O/view
+### GET routes for all categories, all products, and all tags in Insomnia
 
-- POST, PUT, and DELETE routes for categories, products, and tags in Insomnia
-  <img src="./Develop/assets/video4.gif" alt="" /></br>
-  Video link: https://drive.google.com/file/d/1cxHeYlFZ3dKn7Nhjnhnm9OShXVKnk_P6/view
+<img src="./Develop/assets/video2.gif" alt="" /></br>
+Video link: https://drive.google.com/file/d/1Rh5A6CF6UNMpN3iLTWRdDEwi5bcx-1aG/view
+
+### GET routes for a single category, a single product, and a single tag in Insomnia
+
+<img src="./Develop/assets/video3.gif" alt="" /></br>
+Video link: https://drive.google.com/file/d/1mkMriKv-yDRvGMgyu-jSDGxjjU1gq-3O/view
+
+### POST, PUT, and DELETE routes for categories, products, and tags in Insomnia
+
+<img src="./Develop/assets/video4.gif" alt="" /></br>
+Video link: https://drive.google.com/file/d/1cxHeYlFZ3dKn7Nhjnhnm9OShXVKnk_P6/view
